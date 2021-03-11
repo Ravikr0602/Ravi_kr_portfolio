@@ -401,7 +401,7 @@ Start Home Section
     left: 0;
     width: 0;
     height: 100%;
-    background: #ff003b;
+    background: #00AFF0;
     transition: all .35s;
   }
   
@@ -703,7 +703,7 @@ Start About Section
 }
 .detail_short .fa 
 {
-    color: cornflowerblue;
+    color: #00AFF0;
     font-size: 1.4rem;
     margin-right: 10px;
     margin-left: 5px;
@@ -760,7 +760,7 @@ Start About Section
     left: 0;
     width: 0;
     height: 100%;
-    background: #ff003b;
+    background: #00AFF0;
     transition: all .35s;
   }
   
@@ -792,7 +792,7 @@ About me right side:-
 }
 .about_right #about_me span
 {
-    border-bottom: 4px solid cornflowerblue;
+    border-bottom: 4px solid #00AFF0;
 }
 .about_right .about_yourself
 {
@@ -891,7 +891,7 @@ About me right side:-
         font-size: 1rem;
         margin-right: 5px;
         margin-left: 5px;
-    
+        color: #00AFF0;
     }
     
     .detail_short #ans
@@ -1059,7 +1059,7 @@ About me right side:-
       font-size: 1rem;
       margin-right: 5px;
       margin-left: 5px;
-    
+      color: #00AFF0;
     }
     
     .detail_short #ans
@@ -1192,7 +1192,7 @@ About me right side:-
       font-size: 1.4rem;
       margin-right: 10px;
       margin-left: 10px;
-    
+      color: #00AFF0;
     }
     
     .detail_short #ans
@@ -1298,7 +1298,7 @@ About me right side:-
   }
   .detail_short .fa 
   {
-      color: cornflowerblue;
+      color: #00AFF0;
       font-size: 1rem;
       margin-right: 5px;
       margin-left: 5px;
@@ -1391,7 +1391,7 @@ About me right side:-
 }
   .detail_short .fa 
   {
-      color: cornflowerblue;
+      color: #00AFF0;
       font-size: 1rem;
       margin-right: 5px;
       margin-left: 5px;
@@ -1470,7 +1470,7 @@ About me right side:-
       
     .detail_short .fa 
     {
-        color: cornflowerblue;
+        color: #00AFF0;
         font-size: 1rem;
         margin-right: 10px;
         margin-left: 5px;
@@ -1523,7 +1523,7 @@ skill
 }
 .skill_title #sk_title
 {
-    border-bottom: 4px solid cornflowerblue;
+    border-bottom: 4px solid #00AFF0;
 }
 .skill_box
 {
@@ -1587,7 +1587,7 @@ skill
     border-radius: 10px;
     width: 100%;
     height: 18px;
-    background:  #1D91F2;
+    background:  #00AFF0;
     display: block;
     position: relative;
 }
@@ -1595,7 +1595,7 @@ skill
 
 .skill_bar span{
     position: absolute;
-    border-top: 5px solid #1D91F2;
+    border-top: 5px solid #00AFF0;
     top: -30px;
     padding: 0;
     font-size: 18px;
@@ -1630,7 +1630,7 @@ skill
 /* SKILL 3 */
 .language3{
     width: 50%;
-    animation: javascript 2s;
+    animation: js 2s;
 }
 .language3 .subject3 {
     right: 0;
@@ -1639,7 +1639,7 @@ skill
 
 /* SKILL 4 */
 .language4{
-    width: 75%;
+    width: 80%;
     animation: bootstrap 2s;
 }
 
@@ -1652,7 +1652,7 @@ skill
 
 /* SKILL 5 */
 .language5{
-  width: 45%;
+  width: 55%;
   animation: nodejs 2s;
 }
 
@@ -1673,7 +1673,7 @@ skill
 
 /* SKILL 7 */
 .language7{
-    width: 50%;
+    width: 55%;
     animation: java 2s;
 }
 
